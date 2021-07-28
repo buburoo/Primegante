@@ -2,6 +2,7 @@
 Primegante is a stacked acryllic keyboard case for the Prime_E PCB inspired by Zambumon's Lubrigante
 
 Prime_E by Prime_KB: https://www.primekb.com/products/prime_e-rev-2-pcb
+
 Lubrigante by Zambumon: https://github.com/Zambumon/Lubrigante
 
 # DISCLAIMER
