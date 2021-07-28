@@ -26,11 +26,17 @@ Wherever you use the files, make sure to set the scale to millimetres. The keybo
 The case is made with multiple layers of 3mm thick acrylic that are stacked on top of each other and held together by slotting standoffs into the 8 openeings and tension held together with the M4 Laptop screws. There are 6 unique pieces that form the keyboard, though 8 pieces are needed in total:
 
 Piece A (x2) - Top opening: this is the top piece of the of the case, the one with two openings. This piece forms the first two layers that sit above the plate.
+
 Piece B - Plate: used to hold the switches, it is the one with switch and stab holes. On the top right side there are 3 holes for the PCB's LEDs. This piece is 1.5mm thick - I recommend either Aluminium or Brass.
+
 Piece C - Mid Space: Sit between the plate and the PCB. Reduces the hole left for the USB-C.
-Piece D (x2) - Mid: Area taht holds the PCB
+
+Piece D (x2) - Mid: Area that holds the PCB
+
 Piece E - Base/Feet Screw piece: Second to last layer with slightly bigger holes to allow for M4 Pan head screws.
+
 Piece F - Bottom piece: Smaller holes for M4 Pan head Screws. Aluminium feet screw points.
+
 
 All layer with the exception of Piece B should be ***3mm Thick***, I had experimented with uniform 5mm layers but this didn't work for me. By all means feel free to experiment yourself.
 Piece B should be at a maximum 2mm thick, but ideally 1.5mm.
