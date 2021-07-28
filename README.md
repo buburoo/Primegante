@@ -9,9 +9,13 @@ Files are provided at the users own risk. Please ensure to check tolerances of y
 
 ## What you will need:
 > 8x 22mm M2 cylindrical standoffs (Example: https://www.ebay.co.uk/itm/324330389089)
+> 
 > 16x 4mm+ M2 Laptop Screws (Example: https://www.ebay.co.uk/itm/111735490082)
+> 
 > 2x 8mm M4 Slotted Pan Head Screws
+> 
 > 2x Aluminium Keyboard Feet (Example: https://www.ebay.co.uk/itm/233794542534?var=533473456493)
+> 
 > Access to a Laser cutter for both Aluminium/Brass & Acryllic sheets.
 
 ## Making the Case:
